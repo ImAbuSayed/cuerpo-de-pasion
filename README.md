@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Cuerpo de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-pasion/) |
+| **Get License** | [Secure Licensing Rights for Cuerpo de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2f4af804435ee630edf4212363f88bbdaa0bfc3c9ae6c9e81b6a8bf22d300208` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

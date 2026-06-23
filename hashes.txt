@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cuerpo de pasión
+
+This log tracks the cryptographic history and versioning for the song **Cuerpo de pasión** (cuerpo-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T12:07:01.574672 | `v1` | `2f4af804435ee630edf4212363f88bbdaa0bfc3c9ae6c9e81b6a8bf22d300208` | `3ef56b6f5c5ece11082753d0ef906c804a0d0847de0fbb05475082181aeb60a8` | `2026-06-23_cuerpo-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
