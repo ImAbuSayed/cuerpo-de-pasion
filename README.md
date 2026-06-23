@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cuerpo de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-pasion/) |
+| **Get License** | [Music Rights & Licensing for Cuerpo de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me flipa el roce de tu cuerpo en la pista
+> Bailas tan suave, de mi mente no te quitas
+> La disco entera se rinde a tu fuego
+> Pero esta noche, nena, tú juegas mi juego
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
